@@ -1,0 +1,2 @@
+going to start up the json-server running on port 3001 and its 
+going to watch the db.json file from any changes done to it

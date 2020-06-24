@@ -1,0 +1,786 @@
+{
+    "addresses": [
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-01-27 11:27:06.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "Cosimo",
+            "id": "qr",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-01-27 11:27:06.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-01-29 13:14:10.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "EHEHEEH",
+            "id": "4r",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-01-29 13:14:10.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-02-03 07:43:49.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "MMMMMMMM",
+            "id": "gt",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-02-03 07:43:49.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-02-04 12:35:01.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "XXXXXXXXXXXXXXX",
+            "id": "q2",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-02-04 12:35:01.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-02-04 12:37:08.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "ZZZZZZZZZZZZZZZZ",
+            "id": "3d",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-02-04 12:37:08.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-02-04 14:59:17.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "ZZZZZZZZZZZZZZZZZZZZ",
+            "id": "fn",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-02-04 14:59:17.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        },
+        {
+            "company": null,
+            "countryCodeAlpha2": "DE",
+
+            "countryCodeAlpha3": "DEU",
+            "countryCodeNumeric": "276",
+            "countryName": "Germany",
+            "createdAt": {
+                "date": "2020-02-04 15:27:14.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "extendedAddress": null,
+            "firstName": "PPPPPPPPPPPPPPPPP",
+            "id": "gc",
+            "lastName": "Simeone",
+            "locality": "Bielefeld",
+            "postalCode": "33602",
+            "region": null,
+            "streetAddress": "Obernstra\u00dfe 50",
+            "updatedAt": {
+                "date": "2020-02-04 15:27:14.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            }
+        }
+    ],
+    "amexExpressCheckoutCards": [],
+    "androidPayCards": [
+        {
+            "bin": "401288",
+            "cardType": "Visa",
+            "createdAt": {
+                "date": "2020-01-27 11:27:06.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "customerGlobalId": "Y3VzdG9tZXJfOTVkMmM2NDRlZTkzMjc0ZGQ5ZTg3N2I5YjMxZDZiNmI",
+            "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+            "default": true,
+            "expirationMonth": "08",
+            "expirationYear": "2020",
+            "globalId": "cGF5bWVudG1ldGhvZF9hbmRyb2lkX2drendxYjI",
+            "googleTransactionId": "AH2EjteOC9rTueW8G8cihnuGvqvaYed1reLhhqsiNiUotuYQzmqGjwoHuwBlJW26Zy9xcksC1BAa0pdZ5fbvy1YvvkJX56XYM6LreZiMiqXYmuCK2dhXUG7SzwwLPc1ot4zVp7m8Ub",
+            "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/android_pay_card.png?environment=sandbox",
+            "isNetworkTokenized": false,
+            "last4": "1881",
+            "sourceCardLast4": "5685",
+            "sourceCardType": "MasterCard",
+            "sourceDescription": "MasterCard 5685",
+            "subscriptions": [
+                {
+                    "addOns": [],
+                    "balance": "0.00",
+                    "billingDayOfMonth": 29,
+
+                    "billingPeriodEndDate": {
+                        "date": "2020-02-28 00:00:00.000000",
+                        "timezone": "Europe/Berlin",
+                        "timezone_type": 3
+                    },
+                    "billingPeriodStartDate": {
+                        "date": "2020-01-29 00:00:00.000000",
+                        "timezone": "Europe/Berlin",
+                        "timezone_type": 3
+                    },
+                    "createdAt": {
+                        "date": "2020-01-29 12:29:10.000000",
+                        "timezone": "UTC",
+                        "timezone_type": 3
+                    },
+                    "currentBillingCycle": 1,
+                    "daysPastDue": null,
+                    "description": null,
+                    "descriptor": [],
+                    "discounts": [],
+                    "failureCount": 0,
+                    "firstBillingDate": {
+                        "date": "2020-01-29 00:00:00.000000",
+                        "timezone": "Europe/Berlin",
+                        "timezone_type": 3
+                    },
+                    "id": "89c4dg",
+                    "merchantAccountId": "leasepay",
+                    "neverExpires": false,
+                    "nextBillAmount": "123.00",
+                    "nextBillingDate": {
+                        "date": "2020-02-29 00:00:00.000000",
+                        "timezone": "Europe/Berlin",
+                        "timezone_type": 3
+                    },
+                    "nextBillingPeriodAmount": "123.00",
+                    "numberOfBillingCycles": 36,
+                    "paidThroughDate": {
+                        "date": "2020-02-28 00:00:00.000000",
+                        "timezone": "Europe/Berlin",
+                        "timezone_type": 3
+                    },
+                    "paymentMethodToken": "gkzwqb2",
+                    "planId": "SMAFO-Plan01-36m",
+                    "price": "123.00",
+                    "status": "Active",
+                    "statusHistory": [[]],
+                    "transactions": [
+                        {
+                            "addOns": [],
+                            "additionalProcessorResponse": null,
+                            "amount": "123.00",
+                            "androidPayCard": {
+                                "bin": "401288",
+                                "commercial": "Unknown",
+                                "countryOfIssuance": null,
+                                "debit": "Unknown",
+                                "durbinRegulated": "Unknown",
+                                "expirationMonth": "08",
+                                "expirationYear": "2020",
+                                "globalId": "cGF5bWVudG1ldGhvZF9hbmRyb2lkX2drendxYjI",
+                                "googleTransactionId": "AH2EjteOC9rTueW8G8cihnuGvqvaYed1reLhhqsiNiUotuYQzmqGjwoHuwBlJW26Zy9xcksC1BAa0pdZ5fbvy1YvvkJX56XYM6LreZiMiqXYmuCK2dhXUG7SzwwLPc1ot4zVp7m8Ub",
+                                "healthcare": "Unknown",
+                                "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/android_pay_card.png?environment=sandbox",
+                                "isNetworkTokenized": false,
+                                "issuingBank": null,
+                                "payroll": "Unknown",
+                                "prepaid": "No",
+                                "productId": "Unknown",
+                                "sourceCardLast4": "5685",
+                                "sourceCardType": "MasterCard",
+                                "sourceDescription": "MasterCard 5685",
+                                "token": "gkzwqb2",
+                                "virtualCardLast4": "1881",
+                                "virtualCardType": "Visa"
+                            },
+                            "androidPayCardDetails": [],
+                            "authorizationAdjustments": [],
+                            "authorizationExpiresAt": {
+                                "date": "2020-01-30 12:29:10.000000",
+                                "timezone": "UTC",
+                                "timezone_type": 3
+                            },
+                            "authorizedTransactionGlobalId": null,
+                            "authorizedTransactionId": null,
+                            "avsErrorResponseCode": null,
+                            "avsPostalCodeResponseCode": "M",
+                            "avsStreetAddressResponseCode": "M",
+                            "billing": {
+                                "company": null,
+                                "countryCodeAlpha2": "DE",
+                                "countryCodeAlpha3": "DEU",
+                                "countryCodeNumeric": "276",
+                                "countryName": "Germany",
+                                "extendedAddress": null,
+                                "firstName": "Cosimo",
+                                "id": "qr",
+                                "lastName": "Simeone",
+                                "locality": "Bielefeld",
+                                "postalCode": "33602",
+                                "region": null,
+                                "streetAddress": "Obernstra\u00dfe 50"
+                            },
+                            "billingDetails": [],
+                            "channel": null,
+                            "createdAt": {
+                                "date": "2020-01-29 12:29:10.000000",
+                                "timezone": "UTC",
+                                "timezone_type": 3
+                            },
+                            "creditCard": {
+                                "accountType": null,
+                                "bin": null,
+                                "cardType": null,
+                                "cardholderName": null,
+                                "commercial": "Unknown",
+                                "countryOfIssuance": "Unknown",
+                                "customerLocation": null,
+                                "debit": "Unknown",
+                                "durbinRegulated": "Unknown",
+                                "expirationMonth": null,
+                                "expirationYear": null,
+                                "globalId": "cGF5bWVudG1ldGhvZF9jY19na3p3cWIy",
+                                "healthcare": "Unknown",
+                                "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/unknown.png?environment=sandbox",
+                                "issuingBank": "Unknown",
+                                "last4": null,
+                                "payroll": "Unknown",
+                                "prepaid": "Unknown",
+                                "productId": "Unknown",
+                                "token": "gkzwqb2",
+                                "uniqueNumberIdentifier": null,
+                                "venmoSdk": false
+                            },
+                            "creditCardDetails": [],
+                            "currencyIsoCode": "EUR",
+                            "customFields": null,
+                            "customer": {
+                                "company": null,
+                                "email": "cosimo@circuly.io",
+                                "fax": null,
+                                "firstName": "Cosimo",
+                                "globalId": "Y3VzdG9tZXJfOTVkMmM2NDRlZTkzMjc0ZGQ5ZTg3N2I5YjMxZDZiNmI",
+                                "id": "95d2c644ee93274dd9e877b9b31d6b6b",
+                                "lastName": "Simeone",
+                                "phone": null,
+                                "website": null
+                            },
+                            "customerDetails": [],
+                            "cvvResponseCode": "I",
+                            "descriptor": [],
+                            "disbursementDetails": [],
+                            "discountAmount": null,
+                            "discounts": [],
+                            "disputes": [],
+                            "escrowStatus": null,
+                            "gatewayRejectionReason": null,
+                            "globalId": "dHJhbnNhY3Rpb25fcjJkNjkyeHQ",
+                            "id": "r2d692xt",
+                            "masterMerchantAccountId": null,
+                            "merchantAccountId": "leasepay",
+                            "networkResponseCode": null,
+                            "networkResponseText": null,
+                            "networkTransactionId": null,
+                            "orderId": null,
+                            "partialSettlementTransactionGlobalIds": [],
+                            "partialSettlementTransactionIds": [],
+                            "paymentInstrumentType": "android_pay_card",
+                            "planId": "SMAFO-Plan01-36m",
+                            "processorAuthorizationCode": "S45YH3",
+                            "processorResponseCode": "1000",
+                            "processorResponseText": "Approved",
+                            "processorResponseType": "approved",
+                            "processorSettlementResponseCode": null,
+                            "processorSettlementResponseText": null,
+                            "purchaseOrderNumber": null,
+                            "recurring": true,
+                            "refundGlobalIds": [],
+                            "refundId": null,
+                            "refundIds": [],
+                            "refundedTransactionGlobalId": null,
+                            "refundedTransactionId": null,
+                            "retriedTransactionId": null,
+                            "retrievalReferenceNumber": null,
+                            "retryIds": [],
+                            "serviceFeeAmount": null,
+                            "settlementBatchId": "2020-01-30_leasepay_htr2z911",
+                            "shipping": {
+                                "company": null,
+                                "countryCodeAlpha2": null,
+                                "countryCodeAlpha3": null,
+                                "countryCodeNumeric": null,
+                                "countryName": null,
+                                "extendedAddress": null,
+                                "firstName": null,
+                                "id": null,
+                                "lastName": null,
+                                "locality": null,
+                                "postalCode": null,
+                                "region": null,
+                                "streetAddress": null
+                            },
+                            "shippingAmount": null,
+                            "shippingDetails": [],
+                            "shipsFromPostalCode": null,
+                            "status": "settled",
+                            "statusHistory": [[], [], []],
+                            "subMerchantAccountId": null,
+                            "subscription": {
+                                "billingPeriodEndDate": {
+                                    "date": "2020-02-28 00:00:00.000000",
+                                    "timezone": "Europe/Berlin",
+                                    "timezone_type": 3
+                                },
+                                "billingPeriodStartDate": {
+                                    "date": "2020-01-29 00:00:00.000000",
+                                    "timezone": "Europe/Berlin",
+                                    "timezone_type": 3
+                                }
+                            },
+                            "subscriptionDetails": [],
+                            "subscriptionId": "89c4dg",
+                            "taxAmount": null,
+                            "taxExempt": false,
+                            "threeDSecureInfo": null,
+                            "type": "sale",
+                            "updatedAt": {
+                                "date": "2020-01-29 18:11:10.000000",
+                                "timezone": "UTC",
+                                "timezone_type": 3
+                            },
+                            "voiceReferralNumber": null
+                        }
+                    ],
+                    "trialDuration": null,
+                    "trialDurationUnit": null,
+                    "trialPeriod": false,
+                    "updatedAt": {
+                        "date": "2020-01-29 12:29:10.000000",
+                        "timezone": "UTC",
+                        "timezone_type": 3
+                    }
+                }
+            ],
+            "token": "gkzwqb2",
+            "updatedAt": {
+                "date": "2020-01-27 11:27:06.000000",
+                "timezone": "UTC",
+                "timezone_type": 3
+            },
+            "virtualCardLast4": "1881",
+            "virtualCardType": "Visa"
+        }
+    ],
+
+    "applePayCards": [],
+    "coinbaseAccounts": [],
+    "company": {
+        "company": null,
+        "createdAt": {
+            "date": "2020-01-27 11:27:05.000000",
+            "timezone": "UTC",
+            "timezone_type": 3
+        },
+        "creditCards": [],
+        "customFields": {
+            "useridshortfromregistration": "95d2c644"
+        },
+        "email": "cosimo@circuly.io",
+        "fax": null,
+        "firstName": "Cosimo",
+        "globalId": "Y3VzdG9tZXJfOTVkMmM2NDRlZTkzMjc0ZGQ5ZTg3N2I5YjMxZDZiNmI",
+        "id": "95d2c644ee93274dd9e877b9b31d6b6b",
+        "lastName": "Simeone",
+        "masterpassCards": [],
+        "merchantId": "c96swfztwddssjrk",
+        "paymentMethods": [
+            {
+                "bin": "401288",
+                "cardType": "Visa",
+                "createdAt": {
+                    "date": "2020-01-27 11:27:06.000000",
+                    "timezone": "UTC",
+                    "timezone_type": 3
+                },
+                "customerGlobalId": "Y3VzdG9tZXJfOTVkMmM2NDRlZTkzMjc0ZGQ5ZTg3N2I5YjMxZDZiNmI",
+                "customerId": "95d2c644ee93274dd9e877b9b31d6b6b",
+                "default": true,
+                "expirationMonth": "08",
+                "expirationYear": "2020",
+                "globalId": "cGF5bWVudG1ldGhvZF9hbmRyb2lkX2drendxYjI",
+                "googleTransactionId": "AH2EjteOC9rTueW8G8cihnuGvqvaYed1reLhhqsiNiUotuYQzmqGjwoHuwBlJW26Zy9xcksC1BAa0pdZ5fbvy1YvvkJX56XYM6LreZiMiqXYmuCK2dhXUG7SzwwLPc1ot4zVp7m8Ub",
+                "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/android_pay_card.png?environment=sandbox",
+                "isNetworkTokenized": false,
+                "last4": "1881",
+                "sourceCardLast4": "5685",
+                "sourceCardType": "MasterCard",
+                "sourceDescription": "MasterCard 5685",
+                "subscriptions": [
+                    {
+                        "addOns": [],
+                        "balance": "0.00",
+                        "billingDayOfMonth": 29,
+                        "billingPeriodEndDate": {
+                            "date": "2020-02-28 00:00:00.000000",
+                            "timezone": "Europe/Berlin",
+                            "timezone_type": 3
+                        },
+                        "billingPeriodStartDate": {
+                            "date": "2020-01-29 00:00:00.000000",
+                            "timezone": "Europe/Berlin",
+                            "timezone_type": 3
+                        },
+                        "createdAt": {
+                            "date": "2020-01-29 12:29:10.000000",
+                            "timezone": "UTC",
+                            "timezone_type": 3
+                        },
+                        "currentBillingCycle": 1,
+                        "daysPastDue": null,
+                        "description": null,
+                        "descriptor": [],
+                        "discounts": [],
+                        "failureCount": 0,
+                        "firstBillingDate": {
+                            "date": "2020-01-29 00:00:00.000000",
+                            "timezone": "Europe/Berlin",
+                            "timezone_type": 3
+                        },
+                        "id": "89c4dg",
+                        "merchantAccountId": "leasepay",
+                        "neverExpires": false,
+                        "nextBillAmount": "123.00",
+                        "nextBillingDate": {
+                            "date": "2020-02-29 00:00:00.000000",
+                            "timezone": "Europe/Berlin",
+                            "timezone_type": 3
+                        },
+                        "nextBillingPeriodAmount": "123.00",
+                        "numberOfBillingCycles": 36,
+                        "paidThroughDate": {
+                            "date": "2020-02-28 00:00:00.000000",
+                            "timezone": "Europe/Berlin",
+                            "timezone_type": 3
+                        },
+                        "paymentMethodToken": "gkzwqb2",
+                        "planId": "SMAFO-Plan01-36m",
+                        "price": "123.00",
+                        "status": "Active",
+                        "statusHistory": [[]],
+                        "transactions": [
+                            {
+                                "addOns": [],
+                                "additionalProcessorResponse": null,
+                                "amount": "123.00",
+                                "androidPayCard": {
+                                    "bin": "401288",
+                                    "commercial": "Unknown",
+                                    "countryOfIssuance": null,
+                                    "debit": "Unknown",
+                                    "durbinRegulated": "Unknown",
+                                    "expirationMonth": "08",
+                                    "expirationYear": "2020",
+                                    "globalId": "cGF5bWVudG1ldGhvZF9hbmRyb2lkX2drendxYjI",
+                                    "googleTransactionId": "AH2EjteOC9rTueW8G8cihnuGvqvaYed1reLhhqsiNiUotuYQzmqGjwoHuwBlJW26Zy9xcksC1BAa0pdZ5fbvy1YvvkJX56XYM6LreZiMiqXYmuCK2dhXUG7SzwwLPc1ot4zVp7m8Ub",
+                                    "healthcare": "Unknown",
+                                    "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/android_pay_card.png?environment=sandbox",
+                                    "isNetworkTokenized": false,
+                                    "issuingBank": null,
+                                    "payroll": "Unknown",
+                                    "prepaid": "No",
+                                    "productId": "Unknown",
+                                    "sourceCardLast4": "5685",
+                                    "sourceCardType": "MasterCard",
+                                    "sourceDescription": "MasterCard 5685",
+                                    "token": "gkzwqb2",
+                                    "virtualCardLast4": "1881",
+                                    "virtualCardType": "Visa"
+                                },
+                                "androidPayCardDetails": [],
+                                "authorizationAdjustments": [],
+                                "authorizationExpiresAt": {
+                                    "date": "2020-01-30 12:29:10.000000",
+                                    "timezone": "UTC",
+                                    "timezone_type": 3
+                                },
+                                "authorizedTransactionGlobalId": null,
+                                "authorizedTransactionId": null,
+                                "avsErrorResponseCode": null,
+                                "avsPostalCodeResponseCode": "M",
+                                "avsStreetAddressResponseCode": "M",
+                                "billing": {
+                                    "company": null,
+                                    "countryCodeAlpha2": "DE",
+                                    "countryCodeAlpha3": "DEU",
+                                    "countryCodeNumeric": "276",
+                                    "countryName": "Germany",
+                                    "extendedAddress": null,
+                                    "firstName": "Cosimo",
+                                    "id": "qr",
+                                    "lastName": "Simeone",
+                                    "locality": "Bielefeld",
+                                    "postalCode": "33602",
+                                    "region": null,
+                                    "streetAddress": "Obernstra\u00dfe 50"
+                                },
+                                "billingDetails": [],
+                                "channel": null,
+                                "createdAt": {
+                                    "date": "2020-01-29 12:29:10.000000",
+                                    "timezone": "UTC",
+                                    "timezone_type": 3
+                                },
+                                "creditCard": {
+                                    "accountType": null,
+                                    "bin": null,
+                                    "cardType": null,
+                                    "cardholderName": null,
+                                    "commercial": "Unknown",
+                                    "countryOfIssuance": "Unknown",
+                                    "customerLocation": null,
+                                    "debit": "Unknown",
+                                    "durbinRegulated": "Unknown",
+                                    "expirationMonth": null,
+                                    "expirationYear": null,
+                                    "globalId": "cGF5bWVudG1ldGhvZF9jY19na3p3cWIy",
+
+                                    "healthcare": "Unknown",
+                                    "imageUrl": "https://assets.braintreegateway.com/payment_method_logo/unknown.png?environment=sandbox",
+                                    "issuingBank": "Unknown",
+                                    "last4": null,
+                                    "payroll": "Unknown",
+                                    "prepaid": "Unknown",
+                                    "productId": "Unknown",
+                                    "token": "gkzwqb2",
+                                    "uniqueNumberIdentifier": null,
+                                    "venmoSdk": false
+                                },
+                                "creditCardDetails": [],
+                                "currencyIsoCode": "EUR",
+                                "customFields": null,
+                                "customer": {
+                                    "company": null,
+                                    "email": "cosimo@circuly.io",
+                                    "fax": null,
+                                    "firstName": "Cosimo",
+                                    "globalId": "Y3VzdG9tZXJfOTVkMmM2NDRlZTkzMjc0ZGQ5ZTg3N2I5YjMxZDZiNmI",
+                                    "id": "95d2c644ee93274dd9e877b9b31d6b6b",
+                                    "lastName": "Simeone",
+                                    "phone": null,
+                                    "website": null
+                                },
+                                "customerDetails": [],
+                                "cvvResponseCode": "I",
+                                "descriptor": [],
+                                "disbursementDetails": [],
+                                "discountAmount": null,
+                                "discounts": [],
+                                "disputes": [],
+                                "escrowStatus": null,
+                                "gatewayRejectionReason": null,
+                                "globalId": "dHJhbnNhY3Rpb25fcjJkNjkyeHQ",
+                                "id": "r2d692xt",
+                                "masterMerchantAccountId": null,
+                                "merchantAccountId": "leasepay",
+                                "networkResponseCode": null,
+                                "networkResponseText": null,
+                                "networkTransactionId": null,
+                                "orderId": null,
+                                "partialSettlementTransactionGlobalIds": [],
+                                "partialSettlementTransactionIds": [],
+                                "paymentInstrumentType": "android_pay_card",
+                                "planId": "SMAFO-Plan01-36m",
+                                "processorAuthorizationCode": "S45YH3",
+                                "processorResponseCode": "1000",
+                                "processorResponseText": "Approved",
+                                "processorResponseType": "approved",
+                                "processorSettlementResponseCode": null,
+                                "processorSettlementResponseText": null,
+                                "purchaseOrderNumber": null,
+                                "recurring": true,
+                                "refundGlobalIds": [],
+                                "refundId": null,
+                                "refundIds": [],
+                                "refundedTransactionGlobalId": null,
+                                "refundedTransactionId": null,
+                                "retriedTransactionId": null,
+                                "retrievalReferenceNumber": null,
+                                "retryIds": [],
+                                "serviceFeeAmount": null,
+                                "settlementBatchId": "2020-01-30_leasepay_htr2z911",
+                                "shipping": {
+                                    "company": null,
+                                    "countryCodeAlpha2": null,
+                                    "countryCodeAlpha3": null,
+                                    "countryCodeNumeric": null,
+                                    "countryName": null,
+                                    "extendedAddress": null,
+                                    "firstName": null,
+                                    "id": null,
+                                    "lastName": null,
+                                    "locality": null,
+                                    "postalCode": null,
+                                    "region": null,
+                                    "streetAddress": null
+                                },
+                                "shippingAmount": null,
+                                "shippingDetails": [],
+                                "shipsFromPostalCode": null,
+                                "status": "settled",
+                                "statusHistory": [[], [], []],
+                                "subMerchantAccountId": null,
+                                "subscription": {
+                                    "billingPeriodEndDate": {
+                                        "date": "2020-02-28 00:00:00.000000",
+                                        "timezone": "Europe/Berlin",
+                                        "timezone_type": 3
+                                    },
+                                    "billingPeriodStartDate": {
+                                        "date": "2020-01-29 00:00:00.000000",
+                                        "timezone": "Europe/Berlin",
+                                        "timezone_type": 3
+                                    }
+                                },
+                                "subscriptionDetails": [],
+                                "subscriptionId": "89c4dg",
+                                "taxAmount": null,
+                                "taxExempt": false,
+                                "threeDSecureInfo": null,
+                                "type": "sale",
+                                "updatedAt": {
+                                    "date": "2020-01-29 18:11:10.000000",
+                                    "timezone": "UTC",
+                                    "timezone_type": 3
+                                },
+                                "voiceReferralNumber": null
+                            }
+                        ],
+                        "trialDuration": null,
+                        "trialDurationUnit": null,
+                        "trialPeriod": false,
+                        "updatedAt": {
+                            "date": "2020-01-29 12:29:10.000000",
+                            "timezone": "UTC",
+                            "timezone_type": 3
+                        }
+                    }
+                ],
+                "token": "gkzwqb2",
+                "updatedAt": {
+                    "date": "2020-01-27 11:27:06.000000",
+                    "timezone": "UTC",
+                    "timezone_type": 3
+                },
+                "virtualCardLast4": "1881",
+                "virtualCardType": "Visa"
+            }
+        ],
+        "paypalAccounts": [],
+        "phone": null,
+        "updatedAt": {
+            "date": "2020-01-27 11:27:06.000000",
+            "timezone": "UTC",
+            "timezone_type": 3
+        },
+        "usBankAccounts": [],
+        "venmoAccounts": [],
+        "visaCheckoutCards": [],
+        "website": null
+    }
+}

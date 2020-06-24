@@ -1,6 +1,12 @@
 ## High Level Introduction
 
-Live Streaming RTMP Node Media Server. Three applications to make this possible. Each need to be started
+Real Time Messaging Protocol (RTMP) Server. The app will be a clone to twitch.tv in a non too complex level,
+
+twitch.tv is a very popular site to record video on their desktop and stream it live to their viewers.
+
+This application consists of three applications to make this possible. Each are required to be started via 'npm start'
+
+![Diagram](./docs/highlevel.drawio.svg)
 
 ### `api`
 

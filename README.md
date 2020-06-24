@@ -1,38 +1,40 @@
 ## High Level Introduction
 
-Real Time Messaging Protocol (RTMP) Server. The app will be a clone to twitch.tv in a non too complex level,
+Real Time Messaging Protocol (RTMP) Server. The app will be a clone to twitch.tv in a non too complex level.<br />
 
-twitch.tv is a very popular site to record video on their desktop and stream it live to their viewers.
+twitch.tv is a very popular site to record video on their desktop and stream it live to their viewers.<br />
 
 This application consists of three applications to make this possible. Each are required to be started via 'npm start'
+
+Reason for this app was to get a practice of CRUD operations (create - read - update - destroy)
 
 ![Diagram](./docs/highlevel.drawio.svg)
 
 ### `api`
 
-TODO: update notes
+made use of json-server instead of something like node/express server. Besides json-server has a extremly strict adherence to REST conventions which is great practice anyways making use of (GET/GET:id/POST/PUT/DELETE)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+references:
+[npm json-server](https://www.npmjs.com/package/json-server)
 
 ### `client`
 
-TODO: update notes
+made use of google OAuth (for JS browsers) for the login process
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Diagram](./docs/OAuth.drawio.svg)
+
+TODO: update some notes about React feature 'Portal' that was used for a modal window
+
+references:
+[npm axios]()
+[npm flv.js]()
+[npm lodash]()
+[npm react-redux]()
+[npm react-router-dom]()
+[npm redux]()
+[npm redux-form]()
+[npm redux-thunk]()
 
 ### `rtmpserver`
 
 TODO: update notes
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.

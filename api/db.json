@@ -1,10 +1,22 @@
 {
   "streams": [
     {
-      "title": "coding",
-      "description": "watch this",
+      "title": "new name",
+      "description": "about ukraine",
       "userId": "104620040779824443133",
-      "id": 3
+      "id": 5
+    },
+    {
+      "title": "new name",
+      "description": "new description",
+      "userId": "104620040779824443133",
+      "id": 6
+    },
+    {
+      "title": "another",
+      "description": "another",
+      "userId": "104620040779824443133",
+      "id": 7
     }
   ]
 }

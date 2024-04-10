@@ -8,7 +8,6 @@ import { Link } from 'react-router-dom';
 import { deleteStream } from '../../actions';
 
 class StreamDelete extends React.Component {
-
     componentDidMount() {
         this.props.fetchStream(this.props.match.params.id);
     }
@@ -20,8 +19,12 @@ class StreamDelete extends React.Component {
 
         return (
             <React.Fragment>
-                <button className="ui button negative" onClick={() => this.props.deleteStream(id)}>Delete</button>
-                <Link className="ui button" to="/">Cancel</Link>
+                <button className='ui button negative' onClick={() => this.props.deleteStream(id)}>
+                    Delete
+                </button>
+                <Link className='ui button' to='/'>
+                    Cancel
+                </Link>
             </React.Fragment>
         );
     }
@@ -35,19 +38,15 @@ class StreamDelete extends React.Component {
     }
 
     render() {
-        return (
-            <Modal
-                title="Delete Stream"
-                content={this.renderContent()}
-                actions={this.renderActions()}
-                onDismiss={() => history.push('/')}
-            />
-        )
+        return <Modal title='Delete Stream' content={this.renderContent()} actions={this.renderActions()} onDismiss={() => history.push('/')} />;
     }
 }
 
 const mapStateToProps = (state, ownProps) => {
     return { stream: state.streams[ownProps.match.params.id] };
-}
+};
 
-export default connect(mapStateToProps, { fetchStream, deleteStream })(StreamDelete);
+export default connect(
+    mapStateToProps,
+    { fetchStream, deleteStream }
+)(StreamDelete);
